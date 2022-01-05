@@ -9,4 +9,4 @@ for i in range(nombreEtudiants):
             if 0 <= note <= 20:
                 notes.append(note)
                 moyenne += note
-                
+                break
