@@ -18,4 +18,3 @@ if calcule > 8 :
     print("Eleve passe")
 else:
     print("Eleve passe pas !!!!!")
-
